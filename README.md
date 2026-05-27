@@ -7,4 +7,4 @@ Figma : https://www.figma.com/design/ZFNnTDHphFehGhrj062X2S/Private-Jet-Booking-
 Poster: https://canva.link/jnzd8nwsc4pspfq
 
 
-<img width="1080" height="2400" alt="1" src="https://github.com/user-attachments/assets/3788bf9e-8303-4bd0-b3e7-d8690db3d2d2" />
+<img width="900" height="1000" alt="1" src="https://github.com/user-attachments/assets/3788bf9e-8303-4bd0-b3e7-d8690db3d2d2" />

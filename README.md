@@ -1,6 +1,30 @@
 # Jet-Set-App
 App Dev
 
+I have designed a complete, user-centric mobile app interface for a private jet charter service. This project covers the entire customer journey — from login and sign-up to jet selection, booking, payment, confirmation, ticket generation, profile management, and post-flight rating.
+
+The app features:
+
+Secure authentication (Login / Sign-up with CNIC & phone validation)
+
+Smart flight search (From / To, dates, passenger count, class)
+
+Curated jet listings with availability status (Available / Unavailable), seat capacity, range type, hourly rates, and amenities
+
+Detailed jet view with amenities and booking CTA
+
+Booking summary + payment form (cardholder, card number, expiry, CVV)
+
+Instant booking confirmation with unique reference number and trip details
+
+Digital ticket / boarding pass with passenger info, flight ref, jet type, route, date, class, and seat count
+
+User profile with booking history, ratings, and personal details
+
+Post-journey rating & feedback screen
+
+This project demonstrates a clean, luxury-aligned UI, intuitive navigation, and a fully functional booking flow — ready for front-end development or backend integration.
+
 
 Figma : https://www.figma.com/design/ZFNnTDHphFehGhrj062X2S/Private-Jet-Booking-application?node-id=0-1&p=f&t=rBs7wYZudmqgP9Wn-0
 

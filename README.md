@@ -1,4 +1,4 @@
-# ✈️ Jet-Set-App | Private Jet Booking App 
+# ✈️ Aurelia Jets | Private Jet Booking App 
 
 **App Dev | Complete Customer Journey Design**
 
